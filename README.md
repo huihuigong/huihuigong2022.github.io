@@ -1,4 +1,4 @@
-# Suisuinian Hui
+# huihuigong.github.io
 <p>我怎么会突然想搞网站呢？
 这和肥宅躺中惊坐起然后开始锻炼一样令人匪夷所思……
 不过也就是这一个下午了。
